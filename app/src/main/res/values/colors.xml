@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#ff8800</color>
+    <color name="colorAccent">#fbdf40</color>
+    <color name="light_gray">#bbb</color>
+    <color name="apptheme_color">#000000</color>
+    <color name="text_color">#ffffff</color>
+    <color name="buttonBackground">#D2323F</color>
+    <color name="pressed_purple_button">#ef7a83</color>
+    <color name="focused_purple_button">#f4969b</color>
+
+    <integer-array name="initial_color">
+        <item>@color/colorPrimary</item>
+    </integer-array>
+</resources>
+
